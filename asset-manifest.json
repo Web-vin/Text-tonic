@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Text-tonic/static/css/main.f115840e.css",
+    "main.js": "/Text-tonic/static/js/main.271d7ce5.js",
+    "static/js/453.28b2eb0b.chunk.js": "/Text-tonic/static/js/453.28b2eb0b.chunk.js",
+    "static/media/creative-text-artwork.jpg": "/Text-tonic/static/media/creative-text-artwork.cbde8d8a3dd07dcc7c35.jpg",
+    "static/media/logo2.jpg": "/Text-tonic/static/media/logo2.8dd620b1630ed95a7920.jpg",
+    "static/media/th.jfif": "/Text-tonic/static/media/th.5a08e9e6962dc97b4716.jfif",
+    "static/media/logo.svg": "/Text-tonic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Text-tonic/index.html",
+    "main.f115840e.css.map": "/Text-tonic/static/css/main.f115840e.css.map",
+    "main.271d7ce5.js.map": "/Text-tonic/static/js/main.271d7ce5.js.map",
+    "453.28b2eb0b.chunk.js.map": "/Text-tonic/static/js/453.28b2eb0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f115840e.css",
+    "static/js/main.271d7ce5.js"
+  ]
+}
